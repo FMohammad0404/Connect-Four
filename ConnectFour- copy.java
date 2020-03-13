@@ -1,3 +1,4 @@
+// comment added after using GitHub
 import java.util.Arrays;
 import java.util.Scanner;
 public class ConnectFour {
